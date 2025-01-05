@@ -1,4 +1,4 @@
-# Chatbot-Geminiai
+# Chatbot-Gemini AI
 Chat with Gemini AI
 
 ## Features
